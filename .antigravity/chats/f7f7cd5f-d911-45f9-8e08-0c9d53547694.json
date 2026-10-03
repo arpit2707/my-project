@@ -16,6 +16,18 @@
       "created_at": "2026-10-03T13:19:38.500Z",
       "sender": "ios",
       "is_cancelled": true
+    },
+    {
+      "id": "144d798a-aed6-4b27-9858-9fa2e6c15c2a",
+      "role": "user",
+      "content": "Commit all staged changes with exactly this commit message, unchanged:\n\nFf",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-10-03T13:24:05.988Z",
+      "sender": "ios",
+      "is_cancelled": false
     }
   ]
 }
