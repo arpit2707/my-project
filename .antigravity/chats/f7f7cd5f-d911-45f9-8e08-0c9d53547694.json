@@ -3,19 +3,19 @@
   "name": "Let’s learn about international relations gs",
   "createdAt": "2026-10-03T13:19:37.974Z",
   "filename": "f7f7cd5f-d911-45f9-8e08-0c9d53547694.json",
-  "geminiStarted": false,
+  "geminiStarted": true,
   "messages": [
     {
       "id": "44263efa-9136-4a91-81c7-5aba893c3fca",
       "role": "user",
       "content": "Let’s learn about international relations gs 2",
-      "status": "pending",
+      "status": "cancelled",
       "model": "gemini-3.8-flash-high",
       "client_type": "gemini-bridge",
       "parent_message_id": null,
       "created_at": "2026-10-03T13:19:38.500Z",
       "sender": "ios",
-      "is_cancelled": false
+      "is_cancelled": true
     }
   ]
 }
